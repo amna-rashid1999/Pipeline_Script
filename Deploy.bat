@@ -1,1 +1,1 @@
-"Successfuly deployed at: %date%: %time%"
+echo "Successfuly deployed at: %date%: %time%"
