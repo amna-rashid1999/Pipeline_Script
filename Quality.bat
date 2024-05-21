@@ -1,1 +1,1 @@
-"Successfuly Quality tested at: %date% %time%"
+echo "Successfuly Quality tested at: %date% %time%"
