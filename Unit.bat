@@ -1,1 +1,1 @@
-"Project successfully unit tested at : %date% %time%"
+echo "Project successfully unit tested at : %date% %time%"
